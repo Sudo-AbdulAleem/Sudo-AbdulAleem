@@ -10,7 +10,7 @@ Sudo-AbdulAleem/Sudo-AbdulAleem is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-Hey, Im AbdulAleem Sarfaraz, A programming enthusiast maybe?
-My areas of interest are Cyber Security(Red Hat), Web Dev and ML
-Not really looking for a job right now, But would love to do Internship
-If you are looking to reach me out, DM on my instagram handle @TheAhmed__1771
+- Hey, Im AbdulAleem Sarfaraz, A programming enthusiast maybe?
+- My areas of interest are Cyber Security(Red Hat), Web Dev and ML
+- Not really looking for a job right now, But would love to do Internship
+- If you are looking to reach me out, DM on my instagram handle @TheAhmed__1771
